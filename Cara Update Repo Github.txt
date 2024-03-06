@@ -1,0 +1,13 @@
+Update Repo Gitub
+cd C:\Users\shiro\Downloads\ShiroManga-ID
+
+git status
+
+git add .
+
+git commit -m "Update launcher icons and repository handling"
+
+git push origin main
+
+git pull origin main
+
