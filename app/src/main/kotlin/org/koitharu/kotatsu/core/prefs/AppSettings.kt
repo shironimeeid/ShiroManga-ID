@@ -91,7 +91,7 @@ class AppSettings @Inject constructor(@ApplicationContext context: Context) {
 		set(value) = prefs.edit { putEnumValue(KEY_LIST_MODE_FAVORITES, value) }
 
 	var isNsfwContentDisabled: Boolean
-		get() = prefs.getBoolean(KEY_DISABLE_NSFW, false)
+		get() = prefs.getBoolean(KEY_DISABLE_NSFW, true)
 		set(value) = prefs.edit { putBoolean(KEY_DISABLE_NSFW, value) }
 
 	var appLocales: LocaleListCompat
