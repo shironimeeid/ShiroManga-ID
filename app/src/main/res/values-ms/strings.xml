@@ -130,7 +130,7 @@
     <string name="protect_application_subtitle">Masukkan kata laluan untuk memulakan apl dengan</string>
     <string name="confirm">Sah</string>
     <string name="password_length_hint">Kata laluan mesti mempunyai 4 aksara atau lebih</string>
-    <string name="welcome">Selamat Datang</string>
+    <string name="welcome">Selamat Datang Player!</string>
     <string name="read_more">Baca lagi</string>
     <string name="auth_complete">Diizinkan</string>
     <string name="auth_not_supported_by">Log masuk pada %s tidak disokong</string>

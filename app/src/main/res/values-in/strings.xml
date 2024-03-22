@@ -137,7 +137,7 @@
     <string name="protect_application_subtitle">Masukkan kata sandi untuk memulai aplikasi</string>
     <string name="confirm">Konfirmasi</string>
     <string name="text_clear_search_history_prompt">Hapus semua kueri pencarian baru-baru ini secara permanen\?</string>
-    <string name="welcome">Selamat Datang</string>
+    <string name="welcome">Selamat Datang Player!</string>
     <string name="backup_saved">Cadangan disimpan</string>
     <string name="tracker_warning">Beberapa perangkat mempunyai perilaku sistem yang berbeda, yang mungkin akan merusak tugas latar belakang.</string>
     <string name="read_more">Baca lebih lanjut</string>
@@ -513,7 +513,7 @@
     <string name="error_filter_locale_genre_not_supported">Filter bedasarkan genre dan lokal tidak didukung oleh sumber ini</string>
     <string name="content_type_comics">Komik</string>
     <string name="catalog">Katalog</string>
-    <string name="welcome_text">Silahkan pilih sumber konten komik mana yang akan diaktifkan. konfigurasi ini dapat dilakukan nanti di pengaturan</string>
+    <string name="welcome_text">Puasa mengajarkan kita tentang pentingnya memperkuat iman dan takwa kepada Allah, serta menjalankan ajaran Islam dengan baik dan benar.</string>
     <string name="genres_exclude">Kecualikan genre</string>
     <string name="reader_optimize">Kurangi konsumsi memori (beta)</string>
     <string name="apply">Terapkan</string>

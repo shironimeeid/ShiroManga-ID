@@ -31,7 +31,7 @@ class JsonDeserializer(private val json: JSONObject) {
 		url = json.getString("url"),
 		publicUrl = json.getStringOrNull("public_url").orEmpty(),
 		rating = json.getDouble("rating").toFloat(),
-		isNsfw = json.getBooleanOrDefault("nsfw", false),
+		isNsfw = json.getBooleanOrDefault("nsfw", true),
 		coverUrl = json.getString("cover_url"),
 		largeCoverUrl = json.getStringOrNull("large_cover_url"),
 		state = json.getStringOrNull("state"),
