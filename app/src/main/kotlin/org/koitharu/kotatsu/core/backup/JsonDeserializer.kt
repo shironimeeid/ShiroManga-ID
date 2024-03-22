@@ -31,7 +31,7 @@ class JsonDeserializer(private val json: JSONObject) {
 		url = json.getString("url"),
 		publicUrl = json.getStringOrNull("public_url").orEmpty(),
 		rating = json.getDouble("rating").toFloat(),
-		isNsfw = json.getBooleanOrDefault("nsfw", true),
+		isNsfw = json.getBooleanOrDefault("nsfw", false),
 		coverUrl = json.getString("cover_url"),
 		largeCoverUrl = json.getStringOrNull("large_cover_url"),
 		state = json.getStringOrNull("state"),
@@ -54,6 +54,7 @@ class JsonDeserializer(private val json: JSONObject) {
 		page = json.getInt("page"),
 		scroll = json.getDouble("scroll").toFloat(),
 		percent = json.getFloatOrDefault("percent", -1f),
+		chaptersCount = json.getIntOrDefault("chapters", -1),
 		deletedAt = 0L,
 	)
 

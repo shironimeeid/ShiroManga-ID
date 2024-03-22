@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="enter_password">Masukkan kata laluan</string>
-    <string name="protect_application_summary">Minta kata laluan ketika memulakan ShiroManga</string>
+    <string name="protect_application_summary">Minta kata laluan ketika memulakan Kotatsu</string>
     <string name="repeat_password">Ulang kata laluan</string>
     <string name="zoom_mode_fit_center">Muat di tengah</string>
     <string name="create_category">Kategori baharu</string>
@@ -92,7 +92,7 @@
     <string name="track_sources">Cari kemas kini</string>
     <string name="protect_application">Lindung apl</string>
     <string name="passwords_mismatch">Kata laluan tidak padan</string>
-    <string name="about">Tentang ShiroManga</string>
+    <string name="about">Tentang</string>
     <string name="app_version">Versi %s</string>
     <string name="check_for_updates">Semak kemas kini</string>
     <string name="no_update_available">Tiada kemas kini tersedia</string>
@@ -130,7 +130,7 @@
     <string name="protect_application_subtitle">Masukkan kata laluan untuk memulakan apl dengan</string>
     <string name="confirm">Sah</string>
     <string name="password_length_hint">Kata laluan mesti mempunyai 4 aksara atau lebih</string>
-    <string name="welcome">Selamat Datang Player!</string>
+    <string name="welcome">Selamat Datang</string>
     <string name="read_more">Baca lagi</string>
     <string name="auth_complete">Diizinkan</string>
     <string name="auth_not_supported_by">Log masuk pada %s tidak disokong</string>

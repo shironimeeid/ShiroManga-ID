@@ -137,7 +137,7 @@
     <string name="protect_application_subtitle">Masukkan kata sandi untuk memulai aplikasi</string>
     <string name="confirm">Konfirmasi</string>
     <string name="text_clear_search_history_prompt">Hapus semua kueri pencarian baru-baru ini secara permanen\?</string>
-    <string name="welcome">Selamat Datang Player!</string>
+    <string name="welcome">Selamat Datang</string>
     <string name="backup_saved">Cadangan disimpan</string>
     <string name="tracker_warning">Beberapa perangkat mempunyai perilaku sistem yang berbeda, yang mungkin akan merusak tugas latar belakang.</string>
     <string name="read_more">Baca lebih lanjut</string>
@@ -217,8 +217,8 @@
     <string name="rotate_screen">Putar layar</string>
     <string name="feed_will_update_soon">Pembaruan aliran akan dimulai</string>
     <string name="enter_password">Masukkan kata sandi</string>
-    <string name="protect_application_summary">Tanya kata sandi ketika memulai ShiroManga</string>
-    <string name="about">Tentang ShiroManga</string>
+    <string name="protect_application_summary">Tanya kata sandi ketika memulai Kotatsu</string>
+    <string name="about">Tentang</string>
     <string name="check_for_updates">Periksa pembaruan</string>
     <string name="passwords_mismatch">Kata sandi tidak sama</string>
     <string name="app_version">Versi %s</string>
@@ -292,7 +292,7 @@
     <string name="folder_with_images">Folder dengan gambar</string>
     <string name="import_completed_hint">Anda bisa menghapus berkas asli dari penyimpanan untuk menghemat ruang</string>
     <string name="feed">Umpan</string>
-    <string name="manga_error_description_pattern">Rincian error:&lt;tt&gt;%1$s&lt;/tt&gt;&lt;br&gt;&lt;br&gt;1. Coba &lt;a href=%2$s&gt;buka manga di peramban web&lt;/a&gt; untuk memastikan manga tersebut tersedia di sumbernya&lt;/a&gt;2. Pastikan Anda menggunakan &lt;a href= &gt;manga versi terbaru&lt;/a&gt;&lt;br&gt;3. Jika tersedia, kirimkan laporan kesalahan ke pengembang. Pastikan Anda menggunakan &lt;a href=ShiroManga://about&gt;versi terbaru ShiroManga&lt;/a&gt;&lt;br&gt;3. Jika tersedia, kirimkan laporan kesalahan ke pengembang.</string>
+    <string name="manga_error_description_pattern">Rincian error:&lt;tt&gt;%1$s&lt;/tt&gt;&lt;br&gt;&lt;br&gt;1. Coba &lt;a href=%2$s&gt;buka manga di peramban web&lt;/a&gt; untuk memastikan manga tersebut tersedia di sumbernya&lt;/a&gt;2. Pastikan Anda menggunakan &lt;a href= &gt;manga versi terbaru&lt;/a&gt;&lt;br&gt;3. Jika tersedia, kirimkan laporan kesalahan ke pengembang. Pastikan Anda menggunakan &lt;a href=kotatsu://about&gt;versi terbaru Kotatsu&lt;/a&gt;&lt;br&gt;3. Jika tersedia, kirimkan laporan kesalahan ke pengembang.</string>
     <string name="brightness">Kecerahan</string>
     <string name="contrast">Kontras</string>
     <string name="reset">Atur Ulang</string>
@@ -513,7 +513,7 @@
     <string name="error_filter_locale_genre_not_supported">Filter bedasarkan genre dan lokal tidak didukung oleh sumber ini</string>
     <string name="content_type_comics">Komik</string>
     <string name="catalog">Katalog</string>
-    <string name="welcome_text">Puasa mengajarkan kita tentang pentingnya memperkuat iman dan takwa kepada Allah, serta menjalankan ajaran Islam dengan baik dan benar.</string>
+    <string name="welcome_text">Silahkan pilih sumber konten komik mana yang akan diaktifkan. konfigurasi ini dapat dilakukan nanti di pengaturan</string>
     <string name="genres_exclude">Kecualikan genre</string>
     <string name="reader_optimize">Kurangi konsumsi memori (beta)</string>
     <string name="apply">Terapkan</string>

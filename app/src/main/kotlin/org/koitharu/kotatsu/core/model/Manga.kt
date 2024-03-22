@@ -113,7 +113,7 @@ val Manga.isLocal: Boolean
 	get() = source == MangaSource.LOCAL
 
 val Manga.appUrl: Uri
-	get() = Uri.parse("https://shiroku-anim.vercel.app/manga").buildUpon()
+	get() = Uri.parse("https://kotatsu.app/manga").buildUpon()
 		.appendQueryParameter("source", source.name)
 		.appendQueryParameter("name", title)
 		.appendQueryParameter("url", url)
@@ -130,4 +130,20 @@ fun MangaChapter.formatNumber(): String? {
 		return null
 	}
 	return chaptersNumberFormat.format(number.toDouble())
+}
+
+fun Manga.chaptersCount(): Int {
+	if (chapters.isNullOrEmpty()) {
+		return 0
+	}
+	val counters = MutableObjectIntMap<String?>()
+	var max = 0
+	chapters?.forEach { x ->
+		val c = counters.getOrDefault(x.branch, 0) + 1
+		counters[x.branch] = c
+		if (max < c) {
+			max = c
+		}
+	}
+	return max
 }

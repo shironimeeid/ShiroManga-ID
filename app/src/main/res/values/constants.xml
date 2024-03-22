@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="url_github" translatable="false">https://github.com/shironimeeid/</string>
-	<string name="url_discord" translatable="false">https://discord.gg/</string>
-	<string name="url_telegram" translatable="false"></string>
-	<string name="url_weblate" translatable="false">https://shiroku-anim.vercel.app/</string>
-	<string name="url_error_report" translatable="false"></string>
+	<string name="url_github" translatable="false">https://github.com/KotatsuApp/Kotatsu</string>
+	<string name="url_discord" translatable="false">https://discord.gg/NNJ5RgVBC5</string>
+	<string name="url_telegram" translatable="false">https://t.me/kotatsuapp</string>
+	<string name="url_weblate" translatable="false">https://hosted.weblate.org/engage/kotatsu</string>
+	<string name="url_error_report" translatable="false">https://bugs.kotatsu.app/report</string>
 	<string name="account_type_sync" translatable="false">org.kotatsu.sync</string>
 	<string name="sync_host_default" translatable="false">sync.kotatsu.app</string>
-	<string name="shikimori_clientId" translatable="false"></string>
-	<string name="shikimori_clientSecret" translatable="false"></string>
-	<string name="anilist_clientId" translatable="false">14180</string>
-	<string name="anilist_clientSecret" translatable="false">NEsGI8fJFX5n6upAv6S1QEdFfqis4l83Mb1utQjm</string>
-	<string name="mal_clientId" translatable="false"></string>
-	<string name="kitsu_clientId" translatable="false"></string>
-	<string name="kitsu_clientSecret" translatable="false"></string>
+	<string name="shikimori_clientId" translatable="false">Mw6F0tPEOgyV7F9U9Twg50Q8SndMY7hzIOfXg0AX_XU</string>
+	<string name="shikimori_clientSecret" translatable="false">euBMt1GGRSDpVIFQVPxZrO7Kh6X4gWyv0dABuj4B-M8</string>
+	<string name="anilist_clientId" translatable="false">9887</string>
+	<string name="anilist_clientSecret" translatable="false">wrMqFosItQWsmB8dtAHfIFPDt15FfQi2ZGiKkJoW</string>
+	<string name="mal_clientId" translatable="false">6cd8e6349e9a36bc1fc1ab97703c9fd1</string>
+	<string name="kitsu_clientId" translatable="false">dd031b32d2f56c990b1425efe6c42ad847e7fe3ab46bf1299f05ecd856bdb7dd</string>
+	<string name="kitsu_clientSecret" translatable="false">54d7307928f63414defd96399fc31ba847961ceaecef3a5fd93144e960c0e151</string>
 	<string name="acra_login" translatable="false">zPALLBPdpn5mnCB4</string>
 	<string name="acra_password" translatable="false">kgpuhoNJpSsQDCwu</string>
 	<string name="sync_authority_history" translatable="false">org.koitharu.kotatsu.history</string>
