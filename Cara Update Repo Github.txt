@@ -1,5 +1,5 @@
 Update Repo Gitub
-cd C:\Users\shiro\Downloads\ShiroManga-ID
+cd C:\Users\shiro\Downloads\RyuuManga-ID
 
 git status
 

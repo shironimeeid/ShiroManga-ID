@@ -1,2 +1,2 @@
-# ShiroManga-ID
+# RyuuManga-ID
 
