@@ -6,7 +6,7 @@ import okio.IOException
 import org.koitharu.kotatsu.core.network.CommonHeaders
 import org.koitharu.kotatsu.scrobbling.common.data.ScrobblerStorage
 
-private const val USER_AGENT_SHIKIMORI = "RyuuManga"
+private const val USER_AGENT_SHIKIMORI = "ShiroManga"
 
 class ShikimoriInterceptor(private val storage: ScrobblerStorage) : Interceptor {
 
